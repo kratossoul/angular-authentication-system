@@ -23,7 +23,7 @@
     flex-direction: column;
 }
 
-    .left-login > h1 { color: #77ffc0; }
+    .left-login > h1 { color: #c92424; }
 
 .left-login-img {
     width: 35vw;
@@ -46,11 +46,11 @@
     padding: 30px 35px;
     background: #2f2841;
     border-radius: 20px;
-    box-shadow: 0px 10px 40px #00000056;
+    box-shadow: 0px 10px 40px #c1b4b456;
 }
 
     .card-login > h1 {
-        color: #00ff88;
+        color: #d72515;
         font-weight: 800;
         margin: 0;
     }
@@ -94,8 +94,8 @@
     outline: none;
     font-weight: 800;
     letter-spacing: 3px;
-    color: #2b134b;
-    background: #00ff88;
+    color: #000000;
+    background: #ff0000;
     cursor: pointer;
     box-shadow: 0px 10px 40px -12px #00ff8052;
 }

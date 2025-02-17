@@ -52,6 +52,91 @@ For end-to-end (e2e) testing, run:
 ng e2e
 ```
 
+## Step by step of how to create this app
+
+Create the angular app:
+
+```bash
+ng new grupoFirmaDefini  
+```
+
+## Step 2
+
+Create Npm inside your project folder:
+
+```bash
+npm install 
+```
+
+## Step 3
+
+Install bootstrap and Fontawesome:
+
+```bash
+npm i bootstrap
+npm i fontawesome
+```
+## Step 4
+
+Start to create all the required the folders:
+
+```bash
+ng s   
+```
+```bash
+ng g c login    
+```
+```bash
+ng g c layout   
+```
+
+```bash
+ng g c dashboard   
+```
+
+```bash
+ng g g auth   
+```
+```bash
+ng g c pages/not-found  
+```
+
+## This project counts for the next requiriments
+
+-Login simple con Angular: Utilizar el endpoint mencionado.
+
+-Diseño responsivo: Bootstrap.
+
+-Navegación entre vistas con Angular Router.
+
+-Protección de vistas con un guard de ruta.
+
+-Utilización de servicios de Angular.
+
+-Utilización de Git y Github para manejo de versiones y ramas.
+
+-Documentación básica para la instalación.
+
+-Arquitectura del proyecto en capas
+
+-Buenas prácticas de programación (Código limpio, buen nombramiento de variables, principios SOLID, etc.).
+
+-Commit Convencionales (Conventional Commits).
+
+-Pruebas unitarias (E2E)
+
+-Manejo de errores (Alertas).
+
+-Nota por Grupo firma: Todo esto se refiere a la funcionalidad principal del software: realizar el login e ingresar a una vista protegida que no se puede acceder de ninguna forma sin estar logueado.
+
+-Nota por Juan: Documente todo en ingles, dentro y fuero del codigo por comodidad mas que nada(soy bilingue). Pido disculpas por mi atraso, espero puedan recibir mi projecto, muchas gracias.
+
+## Tecnologias Utilizadas
+
+-Node
+-Bootstrap
+-Git, Github
+
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 ## Additional Resources
