@@ -129,7 +129,7 @@ ng g c pages/not-found
 
 -Nota por Grupo firma: Todo esto se refiere a la funcionalidad principal del software: realizar el login e ingresar a una vista protegida que no se puede acceder de ninguna forma sin estar logueado.
 
--Nota por Juan: Documente todo en ingles, dentro y fuero del codigo por comodidad mas que nada(soy bilingue). Pido disculpas por mi atraso, espero puedan recibir mi projecto, muchas gracias.
+-Nota por Juan: Documente en ingles y espanol, dentro y fuero del codigo por flexibilidad(soy bilingue). Pido disculpas por mi atraso, espero puedan recibir mi projecto, muchas gracias.
 
 ## Tecnologias Utilizadas
 
