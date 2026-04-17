@@ -1,4 +1,4 @@
-# GrupoFirmaDefini
+# angular-authentication-system
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
 
@@ -103,33 +103,29 @@ ng g c pages/not-found
 
 ## This project counts for the next requiriments
 
--Login simple con Angular: Utilizar el endpoint mencionado.
+-Simple login with Angular: Use the mentioned endpoint.
 
--Diseño responsivo: Bootstrap.
+-Responsive design: Bootstrap.
 
--Navegación entre vistas con Angular Router.
+-Navigation between views with Angular Router.
 
--Protección de vistas con un guard de ruta.
+-View protection with a route guard.
 
--Utilización de servicios de Angular.
+-Use of Angular services.
 
--Utilización de Git y Github para manejo de versiones y ramas.
+-Use of Git and Github for version and branch management.
 
--Documentación básica para la instalación.
+-Basic documentation for the installation.
 
--Arquitectura del proyecto en capas
+-Architecture of the project in layers
 
--Buenas prácticas de programación (Código limpio, buen nombramiento de variables, principios SOLID, etc.).
+-Good programming practices (Clean code, good naming of variables, SOLID principles, etc.).
 
--Commit Convencionales (Conventional Commits).
+-Conventional Commits (Conventional Commits).
 
--Pruebas unitarias (E2E)
+- Unit tests (E2E)
 
--Manejo de errores (Alertas).
-
--Nota por Grupo firma: Todo esto se refiere a la funcionalidad principal del software: realizar el login e ingresar a una vista protegida que no se puede acceder de ninguna forma sin estar logueado.
-
--Nota por Juan: Documente en ingles y espanol, dentro y fuero del codigo por flexibilidad(soy bilingue). Pido disculpas por mi atraso, espero puedan recibir mi projecto, muchas gracias.
+-Error handling (Alerts).
 
 ## Tecnologias Utilizadas
 
