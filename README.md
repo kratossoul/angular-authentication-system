@@ -127,7 +127,7 @@ ng g c pages/not-found
 
 -Error handling (Alerts).
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 -Node
 -Bootstrap
